@@ -11,3 +11,6 @@ Para finalizar y lograr lanzar el programa, se debe colocar "roslaunch stage_con
 
 Lograra ver el programa.
 
+Se deja un video en el siguiente link que muestra el funcionamiento del programa:
+
+https://youtu.be/0-4f2s6W0yM 
